@@ -4,9 +4,11 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Emir Can Aktaş </p>
-  <p> 🤓 I am Software & Website Developer </p>
-  <p> 🏳️ I Live In Frankfurt, Germany </p>
-  <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> I'm 17 years old</p>
+  <p> I Live In Frankfurt, Germany </p>
+  <p> I'm borned in İstanbul, Türkiye </p>
+  <p> I am Software & Website Developer </p>
+  <p> Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
