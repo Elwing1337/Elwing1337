@@ -13,7 +13,7 @@
   <p> :heart: JavaScript addict — it just feels right </p>
 
 <h1> ✍ Technologies I use </h1>
-<img src="[https://skillicons.dev/icons?i=html,css,vscode,vs,nodejs,js,ts,cs,react,mongodb,bootstrap,discord&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,cs,sass,bootstrap,react,tailwind,discord,mongodb,vscode,visualstudio&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,sass,bootstrap,react,tailwind,discord,mongodb,vscode,visualstudio&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Elwing1337&show_icons=true&theme=dark" />
