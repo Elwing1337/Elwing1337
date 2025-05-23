@@ -6,18 +6,18 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Emir Can Aktaş </p>
-  <p> I'm 17 years old</p>
-  <p> I Live In Frankfurt, Germany </p>
-  <p> I'm borned in İstanbul, Türkiye </p>
-  <p> I am Software & Website Developer </p>
-  <p> Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
-
+  <p> :calendar: 17 years old </p>
+  <p> :house: Living in Frankfurt, Germany </p>
+  <p> :earth_africa: Originally from Çanakkale, Türkiye </p>
+  <p> :computer: Software & Web Developer </p>
+  <p> :heart: JavaScript addict — it just feels right </p>
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="[https://skillicons.dev/icons?i=html,css,vscode,vs,nodejs,js,ts,cs,react,mongodb,bootstrap,discord&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,cs,sass,bootstrap,react,tailwind,discord,mongodb,vscode,visualstudio&theme=dark)" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Elwing1337&show_icons=true&theme=dark" />
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Elwing1337&theme=onedark" />
+</div>
