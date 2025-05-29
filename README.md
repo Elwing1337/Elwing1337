@@ -1,12 +1,13 @@
 <div align="center">
 <h1> :wave: Hi, I’m @Elwing1337 </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
+<p> On my way to becoming a software, website developer — currently learning JavaScript ❤ </p>
+<p> currently learning JavaScript ❤ </p>
 
 <a href="https://discord.com/users/1286039029455782009"><img src="https://lanyard.cnrad.dev/api/1286039029455782009?theme=dark&bg=&showDisplayName=true&borderRadius=&idleMessage=" /></a>
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Emir Can Aktaş </p>
-  <p> :calendar: 17 years old </p>
+  <p> :calendar: 15 years old </p>
   <p> :house: Living in Frankfurt, Germany </p>
   <p> :earth_africa: Originally from Çanakkale, Türkiye </p>
   <p> :computer: Software & Web Developer </p>
