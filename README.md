@@ -1,9 +1,9 @@
 <div align="center">
 <h1> :wave: Hi, I’m @Elwing1337 </h1>
-<p> On my way to becoming a software, website developer — currently learning JavaScript ❤ </p>
-<p> currently learning JavaScript ❤ </p>
+<p> On my way to becoming a software, website developer. </p>
+<p> Currently learning JavaScript ❤ </p>
 
-<a href="https://discord.com/users/1286039029455782009"><img src="https://lanyard.cnrad.dev/api/1286039029455782009?theme=dark&bg=&showDisplayName=true&borderRadius=&idleMessage=" /></a>
+<a href="https://discord.com/users/1286039029455782009"><img src="https://lanyard.cnrad.dev/api/1286039029455782009?bg=1A1A1A&ignoreAppId=&borderRadius=25px&idleMessage=doing%20nothing&theme=dark&showDisplayName=true" /></a>
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Emir Can Aktaş </p>
