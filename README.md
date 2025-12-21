@@ -8,7 +8,7 @@
   <p> :label: My name is Emir </p>
   <p> :calendar: 16 years old </p>
   <p> :house: Living in Almaty, Kazakhstan </p>
-  <p> :earth_africa: Originally from Çanakkale, Türkiye </p>
+  <p> :earth_africa: Originally from Warsaw, Poland </p>
   <p> :computer: Software & Web Developer </p>
   <p> :heart: c++ addict </p>
 
