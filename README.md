@@ -6,7 +6,7 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Emir Can Aktaş </p>
-  <p> :calendar: 17 years old </p>
+  <p> :calendar: 16 years old </p>
   <p> :house: Living in Almaty, Kazakhstan </p>
   <p> :earth_africa: Originally from Çanakkale, Türkiye </p>
   <p> :computer: Software & Web Developer </p>
