@@ -5,10 +5,10 @@
 
   
 <h1> :grey_question: About </h1>
-  <p> :label: My name is Andrzej </p>
+  <p> :label: My name is Emir </p>
   <p> :calendar: 16 years old </p>
   <p> :house: Living in Almaty, Kazakhstan </p>
-  <p> :earth_africa: Originally from Warsaw, Poland </p>
+  <p> :earth_africa: Originally from Canakkale, Turkiye :heart: </p>
   <p> :computer: Software & Web Developer </p>
   <p> :heart: c++ addict </p>
 
